@@ -1,0 +1,30 @@
+{
+  "version": "1.0",
+  "name": "BMM Official App Catalog",
+  "description": "Official curated apps for Better Mod Manager users.",
+  "community_imports": [],
+  "apps": [
+    {
+      "id":          "better-sound-maker",
+      "title":       "Better Sound Maker",
+      "description": "Create and manage custom sound profiles for DCS World. Replace, mix and preview in-game audio without touching core game files.",
+      "version":     "1.0.9",
+      "category":    "utility",
+      "price":       "free",
+      "tags":        ["audio", "sound", "dcs"],
+      "requirements": "Windows 10+",
+      "md_link":     "https://github.com/FreeProject089/Better-Sound.Maker/blob/main/README.md",
+      "official":    true,
+      "partner":     false,
+      "images": {
+        "thumb": "",
+        "extra": []
+      },
+      "download": {
+        "url":       "https://github.com/FreeProject089/Better-Sound.Maker/releases/download/LastRelease/Better.Sound.Maker.Setup.1.0.9.exe",
+        "file_type": "exe",
+        "size":      0
+      }
+    }
+  ]
+}
